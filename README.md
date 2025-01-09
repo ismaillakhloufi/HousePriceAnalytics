@@ -118,7 +118,7 @@ Contributions are welcome! Please follow these steps:
 For questions or suggestions, feel free to reach out:
 
 - **Ismail Lakhloufi**  
-  📍 Hay Andalouss, Oujda  
+
   📧 ismail.lakhloufi.10@gmail.com  
   📞 0777527102
 ```
