@@ -1,6 +1,4 @@
-Voici un exemple de **README.md** professionnel et bien structuré pour votre projet. Il inclut des icônes et un formatage clair pour GitHub.
 
-```markdown
 # 🏡 Real Estate Data Dashboard
 
 ![Project Status](https://img.shields.io/badge/Status-In%20Development-orange)
